@@ -4,6 +4,13 @@
 **Project Type:** Full-Stack Travel Agency & Tour Booking Platform
 **Core Business:** Selling curated tour packages (safaris, mountain trekking), hotel accommodations, flight/ferry ticketing, and complete travel itineraries for domestic (Tanzania/Zanzibar) and international destinations.
 
+
+## Colors
+1. #2973c6  Primary
+2. #eded00  Secondary
+3. #111cf1  Accent
+
+
 ## 1. System Architecture & Tech Stack
 *   **Backend & Framework:** Laravel (PHP)
 *   **Frontend UI:** Livewire + Tailwind CSS + Alpine.js (TALL Stack)
